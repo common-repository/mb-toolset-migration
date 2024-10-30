@@ -1,0 +1,11 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="128" height="128" fill="black"/>
+<path d="M83.2104 52.3521L82.9673 52.3115L67.1616 96H59.2183L43.4937 52.4736L43.2505 52.5142L44.3853 78.4111V87.6919L50.7075 88.9077V96H26.2695V88.9077L32.5513 87.6919V45.3408L26.2695 44.125V36.9922H32.5513H47.9922L63.0278 80.478H63.271L78.4282 36.9922H100.232V44.125L93.9097 45.3408V87.6919L100.232 88.9077V96H75.7939V88.9077L82.0757 87.6919V78.4111L83.2104 52.3521Z" fill="white"/>
+<rect x="73" y="79" width="44.7826" height="40" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_341_2" transform="scale(0.00970874 0.0108696)"/>
+</pattern>
+<image id="image0_341_2" width="103" height="92" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGcAAABcAQMAAABJMjnUAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAZQTFRFAAAA7Xk+O8ElKAAAAAJ0Uk5TAP9bkSK1AAAASklEQVR4nGNgYLD///8HhACB+v///0AIEPj///8/CDF0ePz/EeAByGNw8APkMTj4g4cHNgyJVz/KG+WN8oY07w9KWfCHQR6J9wEAy08yV1hHWMwAAAAASUVORK5CYII="/>
+</defs>
+</svg>
